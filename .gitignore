@@ -1,0 +1,8 @@
+# Ignore all .ts files (TS video segments)
+*.ts
+
+# Ignore the metadata JSON file
+Metadata.json
+
+# Ignore all .mov video files
+*.mov
